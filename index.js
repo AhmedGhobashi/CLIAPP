@@ -24,7 +24,7 @@ const questions = [{
 
 
 
-// cli simple programm to add a course and it's price, and outputs what u entered in the console
+// cli simple programm to add a done task and it's date, and outputs what u entered in the console as a list later
 program
 .name('tasks-cli')
 .version('1.0.0')
